@@ -13,3 +13,4 @@ Go to file ``Crypto.py``
 
 =====================
 # Installation
+You can install ``cryptography`` with ``pip``:
