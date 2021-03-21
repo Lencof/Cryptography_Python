@@ -9,7 +9,7 @@
 ``cryptography`` includes both high level recipes and low level interfaces to common cryptographic algorithms such as symmetric ciphers, 
 message digests, and key derivation functions. For example, to encrypt something with ``cryptography``’s high level symmetric encryption recipe:
 
-from cryptography.fernet import Fernet
+* from cryptography.fernet import Fernet
 Put this somewhere safe!
 key = Fernet.generate_key()
 f = Fernet(key)
