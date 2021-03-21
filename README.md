@@ -18,3 +18,5 @@ You can install ``cryptography`` with ``pip``:
 
 =====================
 # Layout
+
+# cryptography is broadly divided into two levels. One with safe cryptographic recipes that require little to no configuration choices. These are safe and easy to use and don’t require developers to make many decisions.
