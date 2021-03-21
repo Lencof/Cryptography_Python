@@ -10,13 +10,13 @@ message digests, and key derivation functions. For example, to encrypt something
 
 Go to file ``Crypto.py``
 
-=====================
+
 # Installation
 You can install ``cryptography`` with ``pip``:
 
 ``$ pip install cryptography``
 
-=====================
+
 # Layout
 
 ``cryptography`` is broadly divided into two levels. One with safe cryptographic recipes that require little to no configuration choices. These are safe and easy to use and don’t require developers to make many decisions.
