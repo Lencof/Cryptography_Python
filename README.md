@@ -10,3 +10,6 @@
 message digests, and key derivation functions. For example, to encrypt something with ``cryptography``’s high level symmetric encryption recipe:
 
 Go to file ``Crypto.py``
+
+=====================
+# Installation
