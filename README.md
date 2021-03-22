@@ -25,4 +25,6 @@ The other level is low-level cryptographic primitives. They are often dangerous 
 
 We recommend using the recipe layer and returning to it whenever possible
 
-# 
+# DISCLAIMER 
+use for educational purposes only,
+Do not use this file on the main machine
