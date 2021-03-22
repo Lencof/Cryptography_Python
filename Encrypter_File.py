@@ -1,6 +1,11 @@
 # __Author__ __Lencof__
 # Encrypter_File.py
 
+'''
+DISCLAIMER use for educational purposes only,
+Do not use this file on the main machine
+'''
+
 import os
 import requests
 import socket
