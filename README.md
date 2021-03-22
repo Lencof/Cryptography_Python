@@ -15,6 +15,7 @@ Go to file ``Crypto.py``
 You can install ``cryptography`` with ``pip``:
 
 ``$ pip install cryptography``
+``$ pip install requests``
 
 
 # Layout
