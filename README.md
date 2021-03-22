@@ -20,6 +20,7 @@ You can install ``cryptography`` with ``pip``:
 
 ``$ pip install socket``
 
+``$ pip install threading``
 
 # Layout
 
