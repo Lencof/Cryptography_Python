@@ -18,6 +18,8 @@ You can install ``cryptography`` with ``pip``:
 
 ``$ pip install requests``
 
+``$ pip install socket``
+
 
 # Layout
 
