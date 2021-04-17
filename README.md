@@ -22,6 +22,9 @@ You can install ``cryptography`` with ``pip``:
 
 ``$ pip install threading``
 
+- Clone the repository `git clone https://github.com/Lencof/Cryptography_Python`
+- Install requirements.txt `pip install -r requirements.txt`
+
 # Layout
 
 ``cryptography`` is broadly divided into two levels. One with safe cryptographic recipes that require little to no configuration choices. These are safe and easy to use and don’t require developers to make many decisions.
